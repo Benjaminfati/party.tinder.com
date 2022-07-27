@@ -1,2 +1,2 @@
 # party.tinder.com
-##subdomin takeover 
+## subdomin takeover 
